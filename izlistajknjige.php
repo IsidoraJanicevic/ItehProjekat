@@ -26,7 +26,7 @@
 
 <style>
 .row_selected td {
-    background-color: #393332 !important; /* Add !important to make sure override datables base styles */
+    background-color: #d3d3d3 !important; /* Add !important to make sure override datables base styles */
  }
 </style>
 

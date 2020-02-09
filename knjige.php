@@ -48,7 +48,7 @@
 <body>
 	<div id="wrap">
 		<div id="header">
-			<img class="hederi" src="img/header1.jpg">
+			<img class="hederi" src="img/knjigehed1.jpg">
 		</div>
 		<div id="meni">	
 			<ul> 
