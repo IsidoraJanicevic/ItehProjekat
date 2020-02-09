@@ -1,7 +1,7 @@
 <?php
 $mysql_server = "localhost";
 $mysql_user = "root";
-$mysql_password = "mlljr7";
+$mysql_password = "";
 $mysql_db = "book";
 $mysqli = new mysqli($mysql_server, $mysql_user, $mysql_password, $mysql_db);
 if ($mysqli->connect_errno) {

@@ -3,5 +3,5 @@ $db_server = "localhost";
 $db_db= "book";
 
 $db_user = "root";
-$db_pass = "mlljr7";
+$db_pass = "";
 ?>
