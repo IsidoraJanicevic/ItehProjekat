@@ -105,7 +105,7 @@
 						<div class="panel-footer">
 							<p align="center" style="color: white;">
 								<strong><span class="glyphicon glyphicon-copyright-mark"></span>   
-                            		Miloš Opačić <?php echo date('Y'); ?>		
+                            		Isidora, Lola, Andjela <?php echo date('Y'); ?>		
                             	</strong>
 							</p>
 						</div>
