@@ -63,7 +63,7 @@ Losa:
 			<p id="datum">
 				<script>
 					var datum = new Date();
-					document.write(datum.getDate()+".09."+datum.getFullYear()+".");
+					document.write(datum.getDate()+".02."+datum.getFullYear()+".");
 				</script>
 			</p>
 			
